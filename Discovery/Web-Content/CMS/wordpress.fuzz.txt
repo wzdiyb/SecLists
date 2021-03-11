@@ -492,6 +492,7 @@ wp-content/themes/twentyten/sidebar.php
 wp-content/themes/twentyten/single.php
 wp-content/themes/twentyten/style.css
 wp-content/themes/twentyten/tag.php
+wp-content/debug.log
 wp-cron.php
 wp-feed.php
 wp-includes/
@@ -858,6 +859,9 @@ wp-includes/widgets.php
 wp-includes/wlwmanifest.xml
 wp-includes/wp-db.php
 wp-includes/wp-diff.php
+wp-json/
+wp-json/wp/v2/posts
+wp-json/wp/v2/users
 wp-links-opml.php
 wp-load.php
 wp-login.php
